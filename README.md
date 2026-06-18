@@ -1,6 +1,6 @@
 # CSV Data Cleaner
 
-A simple Streamlit web application for uploading, exploring, and cleaning CSV datasets.  
+A simple web application for uploading, exploring, and cleaning CSV datasets.  
 It provides basic data profiling and automated cleaning features with an option to download the cleaned file.
 
 ---
